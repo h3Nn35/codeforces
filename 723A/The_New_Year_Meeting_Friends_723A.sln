@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The_New_Year_Meeting_Friends_723A", "The_New_Year_Meeting_Friends_723A\The_New_Year_Meeting_Friends_723A.csproj", "{DBC51D89-0666-45F3-B7D5-57FB85112917}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBC51D89-0666-45F3-B7D5-57FB85112917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBC51D89-0666-45F3-B7D5-57FB85112917}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBC51D89-0666-45F3-B7D5-57FB85112917}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBC51D89-0666-45F3-B7D5-57FB85112917}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
